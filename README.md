@@ -61,4 +61,4 @@ Automatyzacja zakupu produktu oraz weryfikacja poprawności transakcji.
 
 ---
 
-📌 **Uwaga**: Skrypty zostały stworzone przy użyciu **Selenium WebDriver**, **Cucumber** oraz **Java**.
+📌 **Uwaga**: Skrypty zostały stworzone przy użyciu **Selenium WebDriver**, **Cucumber** oraz **Java POM**.
